@@ -1,0 +1,532 @@
+.sitee{
+    color: white;
+    background: #1F1D2B;
+}
+.menu{
+  display: flex;
+  margin-top: 1.6rem;
+}
+.titulo{
+    margin-left: 1.5rem;
+    margin-top: -0.5rem;
+    font-size: 1.8rem;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.titulo:hover{
+    color:blueviolet;
+}
+.procurar{
+     margin-left: 7.7rem;
+}
+.searc{
+    width: 29rem;
+    height: 1.5rem;
+    border-radius: 0.6rem;
+    color: rgb(9, 8, 8);
+    background: #b2b4c8;
+    outline: none;
+}
+.lupa{
+    margin-left: -1.2rem;
+    margin-top: -1.7rem;
+}
+.perfil{
+    margin-left: 24rem;
+    margin-top: -0.2rem;
+    outline: none;
+}
+.sessao{
+    width: 8rem;
+    background: #1F1D2B;
+    color: white;   
+    border: none;
+    height: 2rem;
+    outline: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+.op1{
+    color: white;
+    outline: none;
+}
+.sino{
+    width: 1.1rem;
+    margin-left: 1rem;  
+}
+
+
+.menulat1{
+    width: 13rem;
+    margin-top:1rem;
+    display: flex;
+    flex-direction: column;
+}
+.home{
+    display: flex;
+    height: 3.4rem;
+}
+.icon{
+    margin-top:1rem;
+    margin-left: 1.5rem;
+    background: transparent;
+    width:2rem;
+    height:2rem;
+    cursor: pointer;
+    transition: 0.6s;
+    border-radius: 0.8rem;
+    
+}
+.icon:hover{
+    background: orange;
+}
+.frase1{
+    margin-left: 1rem;
+    margin-top: 1.2rem;
+    width: 6rem;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.frase1:hover{
+    color: blueviolet;
+}
+.casa{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+
+.flecha{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+.dowm{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+.paper{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+.wallet{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+
+
+
+
+.skatem{
+    width: 74rem;
+    margin-left: 18rem;
+    margin-top: -16rem;
+    display: flex;
+    height: 22.4rem;
+    gap: 3;
+    
+}
+.titu1{
+    margin: 0;
+    transition: 0.7s;
+    cursor: pointer;
+}
+.titu1:hover{
+    color:slateblue;
+}
+.quad1{
+    background-image: url("homem1.svg");
+    margin-top: 3.2rem;
+    margin-left: -7.4rem;
+    border-radius: 1rem;
+    width: 38em;
+}
+.texto1{
+    
+    width: 15rem;
+    margin-top: 1.9rem;
+    margin-left:1.2rem;
+    font-family: 'Poppins';
+    font-size: 2.3rem;
+    transition: 0.5s;
+}
+.texto1:hover{
+    color: rgb(16, 13, 14);
+}
+.ret1{
+    display: flex;
+}
+.hop{
+    border-radius: 4rem;
+    height: 2.7rem;
+    margin-left: 2rem;
+    cursor:pointer;
+}
+.name{
+    font-size:1rem;
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+}
+.viw1{
+    margin-left: -6rem;
+    margin-top: 2rem;
+}
+.time1{
+    margin-left: 19rem;
+    margin-top: 2rem;
+    height: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    width: 4.3rem;
+    background: #242730;
+    color:rgb(125, 118, 118);
+    cursor:pointer;
+}
+
+.quad2{
+    margin-left: 4rem;
+    background: url("homem2.svg");
+    height: 18rem;
+    margin-top: 3.2em;
+    border-radius: 1rem;
+    width: 22rem;
+}
+.texto2{
+    
+    width: 15rem;
+    margin-top: 1.9rem;
+    margin-left:1.2rem;
+    font-family: 'Poppins';
+    font-size: 2.2rem;
+    transition: 0.5s;
+}
+.texto2:hover{
+    color: rgb(16, 13, 14);
+}
+.ret2{
+    display: flex;
+    margin-left: -1rem;
+    margin-top: 1rem;
+}
+.ton{
+    border-radius: 4rem;
+    height: 2.7rem;
+    margin-left: 2rem;
+    cursor:pointer;
+}
+.name1{
+    font-size:1rem;
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+}
+.viw2{
+    margin-left: -6rem;
+    margin-top: 2rem;
+}
+.time2{
+    margin-top: 4.8rem;
+    margin-left: -12rem;
+    height: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    width: 4.3rem;
+    background: #242730;
+    color:rgb(125, 118, 118);
+    cursor:pointer;
+}
+
+
+
+.menulat2{
+    width: 13rem;
+    margin-top:-3rem;
+    display: flex;
+    flex-direction: column;
+}
+.cate{
+    cursor: pointer;
+    transition: 0.5s;
+}
+.cate:hover{
+    color:rgb(236, 156, 236)
+}
+.home1{
+    display: flex;
+    height: 3.4rem;
+}
+.icon1{
+    margin-top:1rem;
+    margin-left: 1.5rem;
+    background: transparent;
+    width:2rem;
+    height:2rem;
+    cursor: pointer;
+    transition: 0.6s;
+    border-radius: 0.8rem;
+    
+}
+.icon1:hover{
+    background: orange;
+}
+.frase2{
+    margin-left: 1rem;
+    margin-top: 1.2rem;
+    width: 7rem;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.frase2:hover{
+    color: blueviolet;
+}
+.casa2{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+
+.flecha2{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+.dowm2{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+.paper2{
+    margin-top: 0.3rem;
+    margin-left: 0.35rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+
+.quarteto{
+    display: flex;
+    margin-left: 17rem;
+    margin-top: -13rem;
+    width: 70rem;
+}
+.titu2{
+    margin: 0;
+    width: 20em;
+    height: 2rem;
+    font-size: 2rem;
+}
+.quad3{
+    margin-top: 2.8rem;
+    margin-left: -37.7rem;
+    border-radius: 1rem;
+    height: 13rem;
+}
+.ft2{
+    border-radius: 1rem;
+    height: 9.7rem;
+}
+.time3{
+    height: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    width: 3.4rem;
+    background: #242730;
+    color:rgb(125, 118, 118);
+    cursor:pointer;
+    position: absolute;
+    margin-left: -3.5rem;
+    margin-top: 2rem;
+}
+.andy{
+    margin-left: 0.1rem;
+    margin-top: 0.3rem;
+    transition: 0.6s;
+    cursor:pointer;
+}
+.wilian{
+    border-radius: 1rem;
+    margin-top: -4.3rem;
+    margin-left: 12rem;
+    position: absolute;
+    
+}
+.andy:hover{
+    color:blueviolet;
+}
+.viw3{
+    margin-left: 0.1rem;
+    margin-top: -0.8rem;
+    transition: 0.6s;
+    cursor:pointer;
+
+}
+.viw3:hover{
+    color:blueviolet;
+}
+
+
+.quad4{
+    margin-top: 2.8rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    height: 13rem;
+}
+.ft3{
+    border-radius: 1rem;
+    height: 9.7rem;
+}
+.time4{
+    height: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    width: 3.4rem;
+    background: #242730;
+    color:rgb(125, 118, 118);
+    cursor:pointer;
+    position: absolute;
+    margin-left:12rem;
+    margin-top: 2.1rem;
+}
+.wise{
+    margin-left: 0.2rem;
+    margin-top: 0.4rem;
+    transition: 0.6s;
+    cursor:pointer;
+}
+.wiz{
+    border-radius: 1rem;
+    margin-top: -4.3rem;
+    margin-left: 11.8rem;
+    position: absolute;
+    
+}
+.wise:hover{
+    color:blueviolet;
+}
+.viw4{
+    margin-left: 0.1rem;
+    margin-top: -0.8rem;
+    transition: 0.6s;
+    cursor:pointer;
+
+}
+.viw3:hover{
+    color:blueviolet;
+}
+
+
+.quad5{
+    margin-top: 2.8rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    height: 13rem;
+}
+.ft4{
+    border-radius: 1rem;
+    height: 9.7rem;
+}
+.time5{
+    height: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    width: 3.4rem;
+    background: #242730;
+    color:rgb(125, 118, 118);
+    cursor:pointer;
+    position: absolute;
+    margin-left:12rem;
+    margin-top: 2.1rem;
+}
+.hakim{
+    margin-left: 0.2rem;
+    margin-top: 0.4rem;
+    transition: 0.6s;
+    cursor:pointer;
+}
+.budi{
+    border-radius: 1rem;
+    margin-top: -4.3rem;
+    margin-left: 11.8rem;
+    position: absolute;
+    
+}
+.hakim:hover{
+    color:blueviolet;
+}
+.viw5{
+    margin-left: 0.1rem;
+    margin-top: -0.8rem;
+    transition: 0.6s;
+    cursor:pointer;
+
+}
+.viw5:hover{
+    color:blueviolet;
+}
+
+.quad6{
+    margin-top: 2.8rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    height: 13rem;
+}
+.ft5{
+    border-radius: 1rem;
+    height: 9.7rem;
+}
+.time6{
+    height: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    width: 3.4rem;
+    background: #242730;
+    color:rgb(125, 118, 118);
+    cursor:pointer;
+    position: absolute;
+    margin-left:12rem;
+    margin-top: 2.1rem;
+}
+.wija{
+    margin-left: 0.2rem;
+    margin-top: 0.4rem;
+    transition: 0.6s;
+    cursor:pointer;
+}
+.abadi{
+    border-radius: 1rem;
+    margin-top: -4.3rem;
+    margin-left: 11.8rem;
+    position: absolute;
+    
+}
+.wija:hover{
+    color:blueviolet;
+}
+.viw6{
+    margin-left: 0.1rem;
+    margin-top: -0.8rem;
+    transition: 0.6s;
+    cursor:pointer;
+
+}
+.viw5:hover{
+    color:blueviolet;
+}
